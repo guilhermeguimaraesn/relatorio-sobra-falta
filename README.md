@@ -1,6 +1,6 @@
 # Relatório de Faltas e Sobras
 ![Tela home](./.github/home.png) 
-![Tela edit](./.github/edit.png) 
+![Tela edit](./.github/create.png) 
 
 ## Descrição
 Essa é uma aplicação desenvolvida com o intuito de registrar descargas de cargas liquidas ( Gasolina, Alcool etc..). O usuário pode realizar o registro da descarga e anexar comprovantes, além disso pode também editar o relatório ou até mesmo excluir o mesmo. O sistema realiza um calculo e mostra se houve sobras ou faltas na descarga do produto.
