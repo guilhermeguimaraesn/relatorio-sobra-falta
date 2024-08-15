@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+    display: none;
+    -webkit-appearance: none;
+  }
+  
+
+  input[type="date"] {
+    -moz-appearance: textfield;
+  }
+  
+
+input[type="time"]::-webkit-calendar-picker-indicator {
+    display: none;
+    -webkit-appearance: none;
+  }
+  
+
+  input[type="time"] {
+    -moz-appearance: textfield;
+  }
+  
+
+  input[type="time"] {
+    appearance: none;
+  }
